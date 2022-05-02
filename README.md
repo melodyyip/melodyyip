@@ -1,35 +1,55 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center"> Namaste! I'm <a href="https://in.linkedin.com/in/rohankokkula"><b>Rohan Kokkula</b></a>.
+<h3 align="center">Growth Developer | Data Science Enthusiast |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | Weblancer | UI/UX Designer </h3></h1>
+A Data Science practitioner who thrives to leverage Startups using AI-based solutions along with Web Development and a blend of UI/UX Designing</h3>
+<h4></h4>
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project..
+<br>
+<br>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-<!--
-**melodyyip/melodyyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankokkula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<h2> Check out my recent repositories</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<br>
+<a href="https://github.com/rohankokkula/teath">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=teath&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/rohankokkula/SA2020">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=SA2020&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/rohankokkula/Unsupervised-Learning-Major-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=Unsupervised-Learning-Major-Project&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/rohankokkula/Fraudulent-Job-Post-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=Fraudulent-Job-Post-Prediction&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<br>
+
+<a href="https://in.linkedin.com/in/rohankokkula" target="_blank">
+  <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:rohankokkula01@gmail.com" target="_blank">
+  <img align="left" alt="Mail me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/soberohan/" target="_blank">
+  <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/c/rohanalytics/" target="_blank">
+  <img align="left" alt="Rohan's youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://twitter.com/rohankokkula3" target="_blank">
+  <img align="left" alt="Rohan Kokkula | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/c/rohanalytics/" target="_blank">
+  <img align="left" alt="Rohan's youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+<a href="https://public.tableau.com/profile/rohan.kokkula#!/" target="_blank">
+  <img align="left" alt="Rohan Kokkula | Tableay" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
+</a>
+<br>
+
+
