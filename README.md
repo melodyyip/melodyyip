@@ -1,13 +1,16 @@
-<h1 align="center"> Namaste! I'm <a href="https://in.linkedin.com/in/rohankokkula"><b>Rohan Kokkula</b></a>.
-<h3 align="center">Growth Developer | Data Science Enthusiast |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | Weblancer | UI/UX Designer </h3></h1>
-A Data Science practitioner who thrives to leverage Startups using AI-based solutions along with Web Development and a blend of UI/UX Designing</h3>
+<h1 align="center">  Hello, folks! I'm <a href="https://www.linkedin.com/in/melodyyip/"><b>Melody Yip</b></a>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+<!-- <h3 align="center">Data Science Enthusiast| Data analyt |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | </h3></h1> -->
+  
+<h3 align="center">Data Science Enthusiast | Data Analyst  </h3></h1>
+
+<!-- A Data Science practitioner who thrives to leverage Startups using AI-based solutions along with Web Development and a blend of UI/UX Designing</h3>
 <h4></h4>
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project..
 <br>
-<br>
+<br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankokkula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Check out my recent repositories</h2>
 
