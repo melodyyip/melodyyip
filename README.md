@@ -62,11 +62,8 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melodyyip&show_icons=true&hide_border=true" />
 
-[medium]: https://medium.com/@cabreirajm
-[linkedin]: linkedin.com/in/cabreirajm
-[instagram]: https://instagram.com/jhon_cabreira
 
 
 <!-- A Data Science practitioner who thrives to leverage Startups using AI-based solutions along with Web Development and a blend of UI/UX Designing</h3>
