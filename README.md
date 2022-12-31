@@ -49,9 +49,15 @@
 
 ###  Latest Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy](https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=Iowa_liquor_sale_analysis_waterfallchart&layout=compact&show_icons=true&theme=buefy))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/melodyyip/Iowa_liquor_sale_analysis_waterfallchart))
+<a href="https://github.com/melodyyip/ecommerce-site">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=ecommerce-site&layout=compact&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/melodyyip/Titanic_survival_prediction_ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=Titanic_survival_prediction_ML&layout=compact&show_icons=true&theme=buefy"/>
+</a>
+
 
 ### 📕 Latest Blog Posts
 
