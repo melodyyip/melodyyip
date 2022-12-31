@@ -51,6 +51,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy](https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=Iowa_liquor_sale_analysis_waterfallchart&layout=compact&show_icons=true&theme=buefy))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/melodyyip/Iowa_liquor_sale_analysis_waterfallchart))
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
