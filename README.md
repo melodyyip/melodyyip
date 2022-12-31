@@ -54,8 +54,8 @@
 <a href="https://github.com/melodyyip/ecommerce-site">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=ecommerce-site&layout=compact&show_icons=true&theme=buefy" />
 </a>
-<a href="https://github.com/melodyyip/Titanic_survival_prediction_ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=Titanic_survival_prediction_ML&layout=compact&show_icons=true&theme=buefy"/>
+<a href="https://melodyyip.github.io/RFM-UCI-onlineStore/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=RFM-UCI-onlineStore&layout=compact&show_icons=true&theme=buefy"/>
 </a>
 
 
