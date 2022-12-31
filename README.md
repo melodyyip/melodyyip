@@ -45,8 +45,11 @@
 <br />
 <br />
 
+<h2></h2>
 
----
+###  Latest Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 Latest Blog Posts
 
@@ -74,9 +77,9 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Check out my recent repositories</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 
 <br>
