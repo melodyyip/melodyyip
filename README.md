@@ -42,9 +42,8 @@
 <!-- <img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" /> -->
 <!-- <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" /> -->
 <!-- <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" /> -->
-<br />
-<br />
 
+<br />
 <h2></h2>
 
 <h3>Latest Repositories</h3> 
