@@ -47,7 +47,7 @@
 
 <h2></h2>
 
-###  Latest Repositories
+<h3>Latest Repositories</h3> 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
