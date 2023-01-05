@@ -1,4 +1,4 @@
-<h1 align="center">  Hello, folks! I'm <a href="https://www.linkedin.com/in/melodyyip/"><b>Melody Yip</b></a>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">  Hello, folks! I'm <a href="https://www.linkedin.com/in/melodyyip/"><b>Melody</b></a>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 <!-- <h3 align="center">Data Science Enthusiast| Data analyt |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | </h3></h1> -->
   
