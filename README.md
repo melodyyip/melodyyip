@@ -4,9 +4,11 @@
   
 <h3 align="center">Data Science Enthusiast | Data Analyst  </h3></h1>
 
-- 💻 I’m a Data Scientist
+- 💻 I’m a Data Engineer and Data Analyst
 - 📈 I’m always learning new skills. Learning never ends !
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
+
+<br />
 
 ### Connect with me:
 
@@ -44,35 +46,40 @@
 <!-- <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" /> -->
 
 <br />
-<h2></h2>
 
-<h3>Latest Repositories</h3> 
+
+
+<br />
+
+### Latest Repositories
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=datasciencefolio&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/melodyyip/ecommerce-site">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=ecommerce-site&layout=compact&show_icons=true&theme=buefy" />
 </a>
+<a href="https://github.com/melodyyip/Titanic-survival-prediction-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=Titanic-survival-prediction-ML&layout=compact&show_icons=true&theme=buefy" />
+</a>
 <a href="https://melodyyip.github.io/RFM-UCI-onlineStore/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=melodyyip&repo=RFM-UCI-onlineStore&layout=compact&show_icons=true&theme=buefy"/>
 </a>
 
 
-### 📕 Latest Blog Posts
+<!--### 📕 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 * [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
 * [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
 * [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
-
-
-
-
+-->
 <!-- BLOG-POST-LIST:END -->
-
+ 
+ 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melodyyip&show_icons=true&hide_border=true" />
+<img align="left" alt="Melody's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melodyyip&show_icons=true&hide_border=true" />
 
 
 
@@ -86,23 +93,6 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 
 
-
-<br>
-
-<br>
-<a href="https://github.com/rohankokkula/teath">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=teath&layout=compact&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/rohankokkula/SA2020">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=SA2020&layout=compact&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/rohankokkula/Unsupervised-Learning-Major-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=Unsupervised-Learning-Major-Project&layout=compact&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/rohankokkula/Fraudulent-Job-Post-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohankokkula&repo=Fraudulent-Job-Post-Prediction&layout=compact&show_icons=true&theme=buefy" />
-</a>
-<br>
 
 <!-- <a href="https://in.linkedin.com/in/rohankokkula" target="_blank">
   <img align="left" alt="Rohan Kokkula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
