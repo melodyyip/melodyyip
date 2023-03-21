@@ -4,7 +4,7 @@
   
 <h3 align="center">Data Science Enthusiast | Data Analyst  </h3></h1>
 
-- 💻 I’m a Data Engineer and Data Analyst
+- 💻 I’m a Data Engineer
 - 📈 I’m always learning new skills. Learning never ends !
 - 📊 Passiontate about Data Science and Storytelling
 
