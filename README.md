@@ -31,6 +31,6 @@
 
  
 [<img align="left"  width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/melodyyip/)
-[<img align="left" alt="cabreirajm | medium" width="40px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />](https://medium.com/@melodyyip515_)
+[<img align="left" alt="cabreirajm | medium" width="40px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />](https://medium.com/@melodyyip_)
 
 
