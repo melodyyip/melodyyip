@@ -3,9 +3,9 @@
  
 <!-- <h3 align="center">Data Science Enthusiast| Data analyt |<a href="https://public.tableau.com/profile/rohan.kokkula#!/"><b> Tableau Analyst</b></a> | </h3></h1> -->
   
-<h3 align="center">Data Science Enthusiast | Data Engineer  </h3></h1>
+<h3 align="center">Data & AI Architect  </h3></h1>
 
-- 💻 I’m a Data Engineer
+- 💻 I’m a Data & AI Architect
 - 📈 I’m always learning new skills. Learning never ends !
 - 📊 Passiontate about Data Science and Storytelling
 
