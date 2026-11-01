@@ -29,7 +29,7 @@
   <img alt="Azure Databricks" width="95px" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
   <img alt="Microsoft Purview" width="95px" src="https://img.shields.io/badge/Microsoft-Purview-0078D4?style=for-the-badge" />
   <img alt="Microsoft Copilot Studio" width="130px" src="https://img.shields.io/badge/Copilot-Studio-742774?style=for-the-badge" />
-  <img alt="Power Automate" width="130px" src="https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge" />
+  <img alt="Power Automate" width="130px" src="[https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge](https://commons.wikimedia.org/wiki/File:Microsoft_Power_Automate.svg)" />
   <img alt="Google Cloud" width="100px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
   <img alt="BigQuery" width="100px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
   <img alt="SAS" width="100px" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" />
