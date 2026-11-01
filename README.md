@@ -21,21 +21,21 @@
 ### 🛠️ Languages and Tools
 
 <div>
-  <img alt="Python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-  <img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Tableau" width="85px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" />
-  <img alt="Power BI" width="100px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" />
-  <img alt="Microsoft Azure" width="85px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
-  <img alt="Azure Databricks" width="95px" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
-  <img alt="Microsoft Purview" width="95px" src="https://img.shields.io/badge/Microsoft-Purview-0078D4?style=for-the-badge" />
-  <img alt="Microsoft Copilot Studio" width="130px" src="https://img.shields.io/badge/Copilot-Studio-742774?style=for-the-badge" />
-  <img alt="Power Automate" width="130px" src="https://commons.wikimedia.org/wiki/File:Microsoft_Power_Automate.svg" />
-  <img alt="Google Cloud" width="100px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
-  <img alt="BigQuery" width="100px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
-  <img alt="SAS" width="100px" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" />
-  <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-  <img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="VS Code" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img alt="Tableau" height="45" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+  <img alt="Power BI" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img alt="Microsoft Azure" height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
+  <img alt="Databricks" height="45" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
+  <img alt="Microsoft Purview" height="32" src="https://img.shields.io/badge/Microsoft-Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img alt="Copilot Studio" height="32" src="https://img.shields.io/badge/Copilot-Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img alt="Power Automate" height="32" src="https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img alt="Google Cloud" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
+  <img alt="BigQuery" height="45" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
+  <img alt="SAS" height="45" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" />
+  <img alt="Fabric" height="45" src="https://img.shields.io/badge/Microsoft-Fabric-black?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
 
