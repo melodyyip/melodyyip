@@ -27,13 +27,9 @@
   <img alt="Power BI" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img alt="Microsoft Azure" height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
   <img alt="Databricks" height="45" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
-  <img alt="Microsoft Purview" height="32" src="https://img.shields.io/badge/Microsoft-Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img alt="Copilot Studio" height="32" src="https://img.shields.io/badge/Copilot-Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img alt="Power Automate" height="32" src="https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
   <img alt="Google Cloud" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
   <img alt="BigQuery" height="45" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
   <img alt="SAS" height="45" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" />
-  <img alt="Fabric" height="45" src="https://img.shields.io/badge/Microsoft-Fabric-black?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
