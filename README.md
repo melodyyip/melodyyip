@@ -28,7 +28,6 @@
   <img alt="Microsoft Azure" height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
   <img alt="Databricks" height="45" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
   <img alt="Google Cloud" height="45" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
-  <img alt="BigQuery" height="45" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
   <img alt="SAS" height="45" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" />
   <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
